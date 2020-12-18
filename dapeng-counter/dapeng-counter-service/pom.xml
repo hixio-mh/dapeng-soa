@@ -16,7 +16,7 @@
         <java-version>1.8</java-version>
         <slf4j-version>1.7.13</slf4j-version>
         <dapeng-version>2.2.2</dapeng-version>
-        <influxdb-version>2.8</influxdb-version>
+        <influxdb-version>2.20</influxdb-version>
         <maven.deploy.skip>true</maven.deploy.skip>
         <maven.install.skip>true</maven.install.skip>
     </properties>
