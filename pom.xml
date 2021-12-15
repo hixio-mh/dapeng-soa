@@ -74,7 +74,7 @@
         <java-version>1.8</java-version>
         <slf4j-version>1.7.13</slf4j-version>
         <profile.name>oss</profile.name>
-        <arguments />
+        <arguments/>
         <logback-version>1.1.3</logback-version>
     </properties>
 
@@ -230,7 +230,7 @@
             <dependency>
                 <groupId>org.apache.zookeeper</groupId>
                 <artifactId>zookeeper</artifactId>
-                <version>3.4.7</version>
+                <version>3.4.14</version>
                 <exclusions>
                     <exclusion>
                         <groupId>org.slf4j</groupId>
